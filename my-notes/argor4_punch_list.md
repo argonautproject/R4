@@ -1,4 +1,6 @@
 Punch list
+- merge back into US Core - done
+- remove intro material
 - add to connectathon: Dynamic Health IT server
 - (see US core punch list)
 - update prov examples from rev include
