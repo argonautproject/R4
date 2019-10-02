@@ -1,0 +1,6 @@
+## List all US Core Required and Must Support Elements
+
+Type,Profile,Element,isRequired,isMustSupport
+{%- for i in elements %}
+{{i[0]}},{{i[1]}},{{i[2]}},{%- if i[3] -%}X{%- endif -%},{%- if i[4] -%}X{%- endif -%}
+{% endfor %}
