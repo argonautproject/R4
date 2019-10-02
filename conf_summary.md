@@ -3,7 +3,7 @@
 Note that:
 
 1. this DOES NOT consider the [FHIR Observation Vitals elements](http://build.fhir.org/observation-vitalsigns.html) since they are not defined in US Core.
-1. Many of the elements that are defined as required inherited from the the base specification.
+1. Many of the elements that are defined as required inherit this conformance usage from the the base specification.
 
 
 [**CSV version**](https://github.com/argonautproject/R4/blob/master/conf_summary.csv)  
