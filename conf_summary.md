@@ -6,7 +6,7 @@ Note that this DOES NOT consider the [FHIR Observation Vitals elements](http://b
 
 
 
-|Type|Profile|<div style="width:290px">property</div>|isRequired|isMustSupport|
+|Type|Profile|<div style="width:29px">property</div>|isRequired|isMustSupport|
 |---|---|---|---|---|
 |Observation|US Core Pediatric BMI for Age Observation Profile|Observation|||
 |Observation|US Core Pediatric BMI for Age Observation Profile|Observation.code|X||
